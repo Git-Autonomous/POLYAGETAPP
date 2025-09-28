@@ -1,0 +1,5 @@
+{
+  "name": "Polymarket Hourly Bitcoin Bot",
+  "description": "An automated betting assistant for Polymarket's hourly Bitcoin markets. It monitors market conditions and generates a buy order transaction when specific criteria (timing, payout rate, community sentiment) are met.",
+  "requestFramePermissions": []
+}
